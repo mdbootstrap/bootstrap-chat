@@ -1,25 +1,29 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
+  "name": "bootstrap-chat",
+  "version": "1.0.0",
+  "description": "Responsive Chat built with Bootstrap 5. Many variants of the chat UI - mobile app, messages box, desktop widget and more.",
   "main": "profile.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-chat.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "chat",
     "bootstrap5",
-    "circle-image-view"
+    "chat-window",
+    "bootstrap-chat-aplication",
+    "chat-message-box",
+    "chat-with-gradient",
+    "collapsible-chat"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-chat/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/chat/"
 }
