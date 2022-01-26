@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-chat",
-  "version": "1.0.0",
+  "name": "@mdbootstrap/bootstrap-chat",
+  "version": "1.0.1",
   "description": "Responsive Chat built with Bootstrap 5. Many variants of the chat UI - mobile app, messages box, desktop widget and more.",
   "main": "profile.html",
   "scripts": {
